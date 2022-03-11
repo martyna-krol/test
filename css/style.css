@@ -15,6 +15,7 @@ h1, h3 {
 h1 {
     font-weight: bold;
     font-size: 25px;
+    font-decoration: underline;
 }
 
 h3 {
